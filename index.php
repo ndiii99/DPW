@@ -11,7 +11,7 @@
 		</div>
 		<div id="menu">
 			<ul>
-				<li><a href="index7.html">My Project</a></li>
+				<li><a href="index.php">My Project</a></li>
 				<li><a href="profil.html">About Me</a></li>
 				<li><a href="kontak.html">Ask Me</a></li>
 			</ul>
