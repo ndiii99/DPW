@@ -7,7 +7,7 @@
 <body>
 	<div id="layout">
 		<div id="header">
-		<img src="header.jpg" class="header">
+		<img src="Assets/header.jpg" class="header">
 		</div>
 		<div id="menu">
 			<ul>
